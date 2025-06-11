@@ -9,3 +9,4 @@ wsgiref==0.1.2
 pygeocoder==1.2.5
 geojson==1.0.7
 flask-cors==1.9.0
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
